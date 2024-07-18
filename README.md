@@ -74,7 +74,6 @@ To delete your Handbuk account, please follow the steps below:
 If you have any questions or need further assistance, please contact us at:
 
 - **Email**: [developer@arkatechsol.com](mailto:developer@arkatechsol.com)
-- **Phone**: 📞 929202929
 - **Address**: 📍 Hyderabad, India
 
 ---
